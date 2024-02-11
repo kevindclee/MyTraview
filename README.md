@@ -1,5 +1,14 @@
-# My Traview
-<br>
+# :earth_americas::airplane: My Traview
+MyTraview is a web application that provides information about seasonal foods in Korea built with  
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>  
+"Paldo" in Korean means the eight provinces of Korea and "Bobusang" means vendors who sold small goods or foods, traveling around different marketplaces during the Joseon dynasty.  
+This project was built under alternative username [@ldc-bootcamp01](https://github.com/ldc-bootcamp01) during the En-core Playdata bootcamp.
+
+<div align="center">
+ 
+![Alt Text](/readme/demo.gif)
+
+</div>
 
 <div>
  <h2>1. Getting Started</h2>
