@@ -12,9 +12,10 @@ This project was built under alternative username [@ldc-bootcamp01](https://gith
 
 ## Overview
 With MyTraview web application, you can:
-- Find detailed information about seasonal food currently being produced. provided through database for agricultural products
 - Sign up and log in to leave travel reviews on everything related to travel.
 - Reviews can be categorized by food, transportation, accommodation, tourist attractions, themed routes, etc., by tagging them, allowing users to easily find reviews by region and category.
+- Find other people's travel reviews and the users can comment or like the post.
+- For more detailed functionality, see **Architecture Layout** section below.
 
 ## How to run
 Run the frontend development server
