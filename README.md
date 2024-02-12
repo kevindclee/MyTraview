@@ -1,4 +1,4 @@
-# :earth_americas::airplane: My Traview
+# :earth_americas::airplane: MyTraview
 MyTraview is a web application where users can leave reviews on everything related to travel (food, transportation, accommodation, tourist attractions, themed routes, etc.). It is built with    
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=black"> <img src="https://img.shields.io/badge/Material UI-007FFF?style=flat-square&logo=Material UI&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">  
 The name "My Traview" was made by combining "My Travel" and "Review", meaning that it contains individual user's insightful and exciting travel reviews.
